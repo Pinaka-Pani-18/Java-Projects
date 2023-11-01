@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ATM_Machine/ATM_Machine.iml" filepath="$PROJECT_DIR$/ATM_Machine/ATM_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Car_Showroom_management/Car_Showroom_management.iml" filepath="$PROJECT_DIR$/Car_Showroom_management/Car_Showroom_management.iml" />
       <module fileurl="file://$PROJECT_DIR$/Guessing_Number/Guessing_Number.iml" filepath="$PROJECT_DIR$/Guessing_Number/Guessing_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz/Quiz.iml" filepath="$PROJECT_DIR$/Quiz/Quiz.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java_projects.iml" filepath="$PROJECT_DIR$/.idea/java_projects.iml" />
     </modules>
   </component>
